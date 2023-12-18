@@ -2,10 +2,12 @@
 SolanaSniperBot is a software tool created to buy SLP (solana) tokens as soon as they are listed.
 It supports Raydium and Jupiter. The bot automatically detects the best route to send the transaction.
 
-Last update: *December 14, 2023*
+Last update: *December 17, 2023*
 
-- All SLP pairs are supported (SOL, USDC, BONK, etc...)
-- You can pay the transactions with SOL or USDC
+- Supported pairs: SOL, USDC & BONK.
+- Automated liquidity detection.
+- Automated raydium timer detection.
+- Custom priority fees to execute transactions faster.
 - A LOT of features rolling out really shortly...
 
 It is very simple to use, everyone can snipe with it.
