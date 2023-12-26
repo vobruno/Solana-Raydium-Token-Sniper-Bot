@@ -10,6 +10,7 @@ Last update: *December 26, 2023*
 - Custom priority fees to execute transactions faster.
 - Telegram scrapping mode to automatically pick the Token address from a specific channel or group.
 - It can scrap messages containing Dexscreener, birdeye & more links.
+- Auto-sell with a customized seconds delay
 - A LOT of features rolling out really shortly...
 
 It is very simple to use, everyone can snipe with it.
