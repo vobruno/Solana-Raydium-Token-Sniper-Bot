@@ -16,7 +16,7 @@ Last update: *December 26, 2023*
 It is very simple to use, everyone can snipe with it.
 
 Check the video :
-[![Usage video](https://img.youtube.com/vi/erPes1cnZqo/0.jpg)](https://www.youtube.com/watch?v=erPes1cnZqo)
+[![Usage video](https://img.youtube.com/vi/PKp2ht7QQz0/0.jpg)](https://www.youtube.com/watch?v=PKp2ht7QQz0)
 
 
 More information in SolanaSniperBot.com
